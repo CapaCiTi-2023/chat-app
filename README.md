@@ -1,8 +1,23 @@
-<!-- Installing Dependencies -->
+## Project Setup
 
+```sh
 npm install
+```
 
-<!-- Running the Application
-Once you have installed the dependencies, you can run the application using the following command:  -->
+### Run application
 
+```sh
 npm start
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
